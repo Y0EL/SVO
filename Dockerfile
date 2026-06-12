@@ -1,7 +1,7 @@
 FROM node:24-slim AS deps
 WORKDIR /app
 COPY package*.json ./
-RUN npm ci
+RUN npm install
 
 FROM node:24-slim AS build
 WORKDIR /app
