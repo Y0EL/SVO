@@ -92,8 +92,8 @@ npm start
 
 URL lokal:
 
-- Health: `http://127.0.0.1:3000/health`
-- MCP: `http://127.0.0.1:3000/mcp`
+- Health: `http://127.0.0.1:8080/health`
+- MCP: `http://127.0.0.1:8080/mcp`
 
 Mode development:
 
@@ -128,7 +128,7 @@ fly deploy
 Kalau nama app atau domain berubah, update allowlist:
 
 ```bash
-fly secrets set ALLOWED_HOSTS="svo-mcp.fly.dev,your-custom-domain.com"
+fly secrets set ALLOWED_HOSTS="svo.fly.dev,your-custom-domain.com"
 ```
 
 Setelah deploy, endpoint MCP akan berbentuk:
