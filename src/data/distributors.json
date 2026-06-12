@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dist-ayu",
+    "name": "Ayu Sari",
+    "region": "Jakarta",
+    "tier": "leader",
+    "salesStyle": "consultative",
+    "channelMaturity": "high",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-bima",
+    "name": "Bima Pratama",
+    "region": "Bandung",
+    "tier": "starter",
+    "salesStyle": "fast_closer",
+    "channelMaturity": "medium",
+    "preferredCategory": "wellness"
+  },
+  {
+    "id": "dist-03",
+    "name": "Raka 3",
+    "region": "Surabaya",
+    "tier": "growth",
+    "salesStyle": "educational",
+    "channelMaturity": "low",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-04",
+    "name": "Sinta 4",
+    "region": "Medan",
+    "tier": "starter",
+    "salesStyle": "promo_driven",
+    "channelMaturity": "high",
+    "preferredCategory": "personal_care"
+  },
+  {
+    "id": "dist-05",
+    "name": "Dimas 5",
+    "region": "Makassar",
+    "tier": "growth",
+    "salesStyle": "consultative",
+    "channelMaturity": "medium",
+    "preferredCategory": "haircare"
+  },
+  {
+    "id": "dist-06",
+    "name": "Maya 6",
+    "region": "Bali",
+    "tier": "leader",
+    "salesStyle": "fast_closer",
+    "channelMaturity": "low",
+    "preferredCategory": "personal_care"
+  },
+  {
+    "id": "dist-07",
+    "name": "Tari 7",
+    "region": "Semarang",
+    "tier": "growth",
+    "salesStyle": "educational",
+    "channelMaturity": "high",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-08",
+    "name": "Fajar 8",
+    "region": "Jakarta",
+    "tier": "starter",
+    "salesStyle": "promo_driven",
+    "channelMaturity": "medium",
+    "preferredCategory": "wellness"
+  },
+  {
+    "id": "dist-09",
+    "name": "Lina 9",
+    "region": "Bandung",
+    "tier": "growth",
+    "salesStyle": "consultative",
+    "channelMaturity": "low",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-10",
+    "name": "Reno 10",
+    "region": "Surabaya",
+    "tier": "starter",
+    "salesStyle": "fast_closer",
+    "channelMaturity": "high",
+    "preferredCategory": "personal_care"
+  },
+  {
+    "id": "dist-11",
+    "name": "Nadia 11",
+    "region": "Medan",
+    "tier": "leader",
+    "salesStyle": "educational",
+    "channelMaturity": "medium",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-12",
+    "name": "Putri 12",
+    "region": "Makassar",
+    "tier": "starter",
+    "salesStyle": "promo_driven",
+    "channelMaturity": "low",
+    "preferredCategory": "bundle"
+  },
+  {
+    "id": "dist-13",
+    "name": "Raka 13",
+    "region": "Bali",
+    "tier": "growth",
+    "salesStyle": "consultative",
+    "channelMaturity": "high",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-14",
+    "name": "Sinta 14",
+    "region": "Semarang",
+    "tier": "starter",
+    "salesStyle": "fast_closer",
+    "channelMaturity": "medium",
+    "preferredCategory": "wellness"
+  },
+  {
+    "id": "dist-15",
+    "name": "Dimas 15",
+    "region": "Jakarta",
+    "tier": "growth",
+    "salesStyle": "educational",
+    "channelMaturity": "low",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-16",
+    "name": "Maya 16",
+    "region": "Bandung",
+    "tier": "leader",
+    "salesStyle": "promo_driven",
+    "channelMaturity": "high",
+    "preferredCategory": "personal_care"
+  },
+  {
+    "id": "dist-17",
+    "name": "Tari 17",
+    "region": "Surabaya",
+    "tier": "growth",
+    "salesStyle": "consultative",
+    "channelMaturity": "medium",
+    "preferredCategory": "haircare"
+  },
+  {
+    "id": "dist-18",
+    "name": "Fajar 18",
+    "region": "Medan",
+    "tier": "starter",
+    "salesStyle": "fast_closer",
+    "channelMaturity": "low",
+    "preferredCategory": "personal_care"
+  },
+  {
+    "id": "dist-19",
+    "name": "Lina 19",
+    "region": "Makassar",
+    "tier": "growth",
+    "salesStyle": "educational",
+    "channelMaturity": "high",
+    "preferredCategory": "skincare"
+  },
+  {
+    "id": "dist-20",
+    "name": "Reno 20",
+    "region": "Bali",
+    "tier": "starter",
+    "salesStyle": "promo_driven",
+    "channelMaturity": "medium",
+    "preferredCategory": "wellness"
+  }
+]

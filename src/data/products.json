@@ -1,0 +1,533 @@
+[
+  {
+    "id": "prod-glow-serum",
+    "sku": "SVO-SKIN-001",
+    "name": "SVO Glow Serum",
+    "category": "skincare",
+    "priceIdr": 149000,
+    "stock": 84,
+    "targetPersonas": [
+      "flek",
+      "kusam"
+    ],
+    "approvedClaims": [
+      "membantu kulit terasa lebih lembap",
+      "membantu tampilan kulit terlihat lebih cerah",
+      "ringan untuk rutinitas pagi dan malam"
+    ],
+    "forbiddenClaims": [
+      "menyembuhkan jerawat",
+      "memutihkan permanen",
+      "menghilangkan flek dalam 3 hari"
+    ],
+    "marginPct": 28,
+    "positioning": [
+      "angle utama: flek",
+      "cocok untuk lead yang butuh edukasi"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-1",
+        "name": "SVO Glow Serum Starter Pair",
+        "productIds": [
+          "prod-glow-serum",
+          "prod-lip-care"
+        ],
+        "priceIdr": 198000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-fit-coffee",
+    "sku": "SVO-WELL-014",
+    "name": "SVO Fit Coffee",
+    "category": "wellness",
+    "priceIdr": 99000,
+    "stock": 120,
+    "targetPersonas": [
+      "berat badan",
+      "energi pagi"
+    ],
+    "approvedClaims": [
+      "kopi praktis untuk menemani rutinitas pagi",
+      "rasa ringan dan mudah diseduh",
+      "cocok diposisikan sebagai habit replacement"
+    ],
+    "forbiddenClaims": [
+      "menurunkan berat badan tanpa diet",
+      "membakar lemak pasti",
+      "mengobati diabetes"
+    ],
+    "marginPct": 32,
+    "positioning": [
+      "angle utama: berat badan",
+      "cocok untuk trial offer"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-2",
+        "name": "SVO Fit Coffee Starter Pair",
+        "productIds": [
+          "prod-fit-coffee",
+          "prod-lip-care"
+        ],
+        "priceIdr": 148000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-clear-wash",
+    "sku": "SVO-SKIN-002",
+    "name": "SVO Clear Facial Wash",
+    "category": "skincare",
+    "priceIdr": 79000,
+    "stock": 150,
+    "targetPersonas": [
+      "jerawat",
+      "minyak"
+    ],
+    "approvedClaims": [
+      "membantu membersihkan wajah dari minyak berlebih",
+      "lembut untuk pemakaian harian"
+    ],
+    "forbiddenClaims": [
+      "menyembuhkan jerawat parah",
+      "menghilangkan komedo permanen"
+    ],
+    "marginPct": 36,
+    "positioning": [
+      "angle utama: jerawat",
+      "cocok untuk lead yang butuh edukasi"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-3",
+        "name": "SVO Clear Facial Wash Starter Pair",
+        "productIds": [
+          "prod-clear-wash",
+          "prod-lip-care"
+        ],
+        "priceIdr": 128000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-body-bright",
+    "sku": "SVO-CARE-005",
+    "name": "SVO Body Bright Lotion",
+    "category": "personal_care",
+    "priceIdr": 129000,
+    "stock": 96,
+    "targetPersonas": [
+      "kulit kering",
+      "warna tidak merata"
+    ],
+    "approvedClaims": [
+      "membantu kulit terasa lembut",
+      "membantu tampilan kulit tampak lebih terawat"
+    ],
+    "forbiddenClaims": [
+      "memutihkan permanen",
+      "hasil putih dalam seminggu"
+    ],
+    "marginPct": 40,
+    "positioning": [
+      "angle utama: kulit kering",
+      "cocok untuk trial offer"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-4",
+        "name": "SVO Body Bright Lotion Starter Pair",
+        "productIds": [
+          "prod-body-bright",
+          "prod-lip-care"
+        ],
+        "priceIdr": 178000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-hair-vital",
+    "sku": "SVO-HAIR-003",
+    "name": "SVO Hair Vital Tonic",
+    "category": "haircare",
+    "priceIdr": 139000,
+    "stock": 72,
+    "targetPersonas": [
+      "rambut rontok"
+    ],
+    "approvedClaims": [
+      "membantu rambut terasa lebih kuat",
+      "mendukung rutinitas perawatan kulit kepala"
+    ],
+    "forbiddenClaims": [
+      "menumbuhkan rambut botak",
+      "mengobati alopecia"
+    ],
+    "marginPct": 44,
+    "positioning": [
+      "angle utama: rambut rontok",
+      "cocok untuk lead yang butuh edukasi"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-5",
+        "name": "SVO Hair Vital Tonic Starter Pair",
+        "productIds": [
+          "prod-hair-vital",
+          "prod-lip-care"
+        ],
+        "priceIdr": 188000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-deo-fresh",
+    "sku": "SVO-CARE-007",
+    "name": "SVO Deo Fresh",
+    "category": "personal_care",
+    "priceIdr": 69000,
+    "stock": 200,
+    "targetPersonas": [
+      "bau badan"
+    ],
+    "approvedClaims": [
+      "membantu menjaga rasa segar lebih lama",
+      "praktis untuk aktivitas harian"
+    ],
+    "forbiddenClaims": [
+      "menghilangkan bau badan permanen"
+    ],
+    "marginPct": 28,
+    "positioning": [
+      "angle utama: bau badan",
+      "cocok untuk trial offer"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-6",
+        "name": "SVO Deo Fresh Starter Pair",
+        "productIds": [
+          "prod-deo-fresh",
+          "prod-lip-care"
+        ],
+        "priceIdr": 118000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-calm-toner",
+    "sku": "SVO-SKIN-006",
+    "name": "SVO Calm Toner",
+    "category": "skincare",
+    "priceIdr": 119000,
+    "stock": 88,
+    "targetPersonas": [
+      "kulit kering",
+      "kemerahan"
+    ],
+    "approvedClaims": [
+      "membantu kulit terasa segar",
+      "cocok untuk layering skincare ringan"
+    ],
+    "forbiddenClaims": [
+      "menyembuhkan iritasi",
+      "mengobati alergi kulit"
+    ],
+    "marginPct": 32,
+    "positioning": [
+      "angle utama: kulit kering",
+      "cocok untuk lead yang butuh edukasi"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-7",
+        "name": "SVO Calm Toner Starter Pair",
+        "productIds": [
+          "prod-calm-toner",
+          "prod-lip-care"
+        ],
+        "priceIdr": 168000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-slim-tea",
+    "sku": "SVO-WELL-018",
+    "name": "SVO Slim Tea",
+    "category": "wellness",
+    "priceIdr": 89000,
+    "stock": 132,
+    "targetPersonas": [
+      "berat badan"
+    ],
+    "approvedClaims": [
+      "minuman herbal praktis untuk rutinitas malam",
+      "rasa ringan dan nyaman"
+    ],
+    "forbiddenClaims": [
+      "turun 5kg seminggu",
+      "melunturkan lemak"
+    ],
+    "marginPct": 36,
+    "positioning": [
+      "angle utama: berat badan",
+      "cocok untuk trial offer"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-8",
+        "name": "SVO Slim Tea Starter Pair",
+        "productIds": [
+          "prod-slim-tea",
+          "prod-lip-care"
+        ],
+        "priceIdr": 138000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-sun-guard",
+    "sku": "SVO-SKIN-011",
+    "name": "SVO Sun Guard SPF",
+    "category": "skincare",
+    "priceIdr": 99000,
+    "stock": 110,
+    "targetPersonas": [
+      "flek",
+      "outdoor"
+    ],
+    "approvedClaims": [
+      "membantu melindungi kulit dari paparan sinar matahari",
+      "ringan untuk dipakai ulang"
+    ],
+    "forbiddenClaims": [
+      "menghilangkan melasma",
+      "perlindungan 100 persen"
+    ],
+    "marginPct": 40,
+    "positioning": [
+      "angle utama: flek",
+      "cocok untuk lead yang butuh edukasi"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-9",
+        "name": "SVO Sun Guard SPF Starter Pair",
+        "productIds": [
+          "prod-sun-guard",
+          "prod-lip-care"
+        ],
+        "priceIdr": 148000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-lip-care",
+    "sku": "SVO-CARE-012",
+    "name": "SVO Lip Care",
+    "category": "personal_care",
+    "priceIdr": 59000,
+    "stock": 210,
+    "targetPersonas": [
+      "bibir kering"
+    ],
+    "approvedClaims": [
+      "membantu bibir terasa lembap",
+      "praktis dibawa harian"
+    ],
+    "forbiddenClaims": [
+      "memerahkan bibir permanen"
+    ],
+    "marginPct": 44,
+    "positioning": [
+      "angle utama: bibir kering",
+      "cocok untuk trial offer"
+    ],
+    "bundleOptions": [
+      {
+        "bundleId": "bundle-10",
+        "name": "SVO Lip Care Starter Pair",
+        "productIds": [
+          "prod-lip-care",
+          "prod-lip-care"
+        ],
+        "priceIdr": 108000
+      }
+    ],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-night-repair",
+    "sku": "SVO-SKIN-015",
+    "name": "SVO Night Repair Cream",
+    "category": "skincare",
+    "priceIdr": 179000,
+    "stock": 64,
+    "targetPersonas": [
+      "kusam",
+      "kulit kering"
+    ],
+    "approvedClaims": [
+      "membantu kulit terasa lembap saat malam",
+      "mendukung rutinitas perawatan malam"
+    ],
+    "forbiddenClaims": [
+      "anti aging permanen",
+      "menghapus keriput"
+    ],
+    "marginPct": 28,
+    "positioning": [
+      "angle utama: kusam",
+      "cocok untuk lead yang butuh edukasi"
+    ],
+    "bundleOptions": [],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  },
+  {
+    "id": "prod-starter-bundle",
+    "sku": "SVO-BND-001",
+    "name": "SVO Starter Glow Bundle",
+    "category": "bundle",
+    "priceIdr": 299000,
+    "stock": 44,
+    "targetPersonas": [
+      "flek",
+      "kusam",
+      "kulit kering"
+    ],
+    "approvedClaims": [
+      "paket praktis untuk mulai rutinitas skincare",
+      "menggabungkan pembersih dan serum"
+    ],
+    "forbiddenClaims": [
+      "hasil instan",
+      "memutihkan permanen"
+    ],
+    "marginPct": 32,
+    "positioning": [
+      "angle utama: flek",
+      "cocok untuk trial offer"
+    ],
+    "bundleOptions": [],
+    "objectionFaq": [
+      {
+        "objection": "price",
+        "response": "Bandingkan biaya per pemakaian harian dan tawarkan mulai 1 pcs dulu."
+      },
+      {
+        "objection": "claim_risk",
+        "response": "Gunakan klaim resmi dan hindari janji hasil instan."
+      }
+    ]
+  }
+]

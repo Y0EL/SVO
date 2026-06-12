@@ -44,15 +44,34 @@ Endpoint runtime:
 | `orders_get_sales_log` | Read | Ringkasan order dan revenue distributor |
 | `ads_get_performance_summary` | Read | Ringkasan performa Meta Ads synthetic |
 | `patterns_get_network_insights` | Read | Insight agregat tanpa membuka data mentah distributor lain |
+| `analytics_compare_products` | Read | Menjelaskan kenapa produk tertentu lebih disukai berdasarkan demand, conversion, revenue, ROAS, dan objections |
+| `analytics_compare_scripts` | Read | Membandingkan script iklan/WhatsApp berdasarkan engagement, reply, conversion, tone, CTA, dan claim risk |
+| `analytics_explain_campaign_performance` | Read | Diagnosis performa campaign dari angle, audience, product fit, dan conversion |
+| `analytics_find_hidden_gems` | Read | Menemukan peluang tersembunyi seperti low CTR high ROAS atau script engagement tinggi tapi riskan |
 
 ## Strategi Data
 
-Saat ini data **bukan dari gambar, bukan dari API asli, dan belum SQL**. Tahap 1 memakai fixture TypeScript yang di-seed ke in-memory store.
+Saat ini data **bukan dari gambar, bukan dari API asli, dan belum SQL**. Tahap 1.1 memakai JSON fixtures yang di-load ke in-memory store.
+
+Skala synthetic dataset:
+
+| Data | Jumlah |
+| --- | ---: |
+| Products | 12 |
+| Distributors | 20 |
+| Customers/leads | 300 |
+| WhatsApp messages | 2.000 |
+| Orders | 700 |
+| Meta Ads campaigns | 150 |
+| Creative/WhatsApp scripts | 60 |
+| Script performance observations | 400 |
+| Network patterns | 80 |
 
 Kenapa belum langsung Neon/Postgres?
 
 - Tool contract MCP harus stabil dulu.
 - Test jadi deterministik dan cepat.
+- Dataset mudah dibaca reviewer di `src/data/*.json`.
 - Tidak perlu setup database untuk membuktikan flow.
 - Tidak ada risiko kebocoran data real customer/distributor.
 
@@ -81,7 +100,13 @@ Skema Neon yang nanti masuk akal:
 | `network_patterns` | insight agregat yang aman dibagikan |
 | `tool_audit_logs` | audit trail, latency, idempotency |
 
-Bottom line data: **fixtures sekarang, Neon/Postgres setelah MCP flow terbukti**.
+Bottom line data: **JSON fixtures sekarang, Neon/Postgres setelah MCP flow dan analytics terbukti**.
+
+Regenerate fixtures:
+
+```bash
+npm run generate:fixtures
+```
 
 ## Menjalankan Lokal
 
@@ -117,6 +142,10 @@ Test suite mencakup:
 - health endpoint
 - MCP client list/call flow
 - flow lead response: messages -> catalog -> draft reply -> fake send
+- fixture integrity untuk 3.700+ synthetic rows
+- analytics product comparison
+- analytics script comparison
+- hidden gem discovery
 
 ## Deploy Ke Fly.io
 

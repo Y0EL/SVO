@@ -1,0 +1,43 @@
+[
+  {
+    "tag": "price",
+    "label": "price",
+    "recommendedResponse": "Validasi concern harga, jelaskan value per pemakaian, tawarkan trial atau bundle hemat."
+  },
+  {
+    "tag": "trust",
+    "label": "trust",
+    "recommendedResponse": "Bangun trust dengan info resmi, cara order aman, dan hindari klaim berlebihan."
+  },
+  {
+    "tag": "claim_risk",
+    "label": "claim risk",
+    "recommendedResponse": "Redirect ke approved claims dan tekankan hasil tiap orang bisa berbeda."
+  },
+  {
+    "tag": "shipping",
+    "label": "shipping",
+    "recommendedResponse": "Berikan estimasi ongkir dan opsi follow-up resi."
+  },
+  {
+    "tag": "cod",
+    "label": "cod",
+    "recommendedResponse": "Jelaskan ketersediaan COD sesuai area dan opsi pembayaran lain."
+  },
+  {
+    "tag": "bpom",
+    "label": "bpom",
+    "recommendedResponse": "Arahkan ke informasi legal/resmi yang tersedia dan jangan mengarang nomor izin."
+  },
+  {
+    "tag": "side_effect",
+    "label": "side effect",
+    "recommendedResponse": "Sarankan patch test dan handoff ke manusia untuk kondisi sensitif.",
+    "escalationRule": "handoff_to_human"
+  },
+  {
+    "tag": "spouse_approval",
+    "label": "spouse approval",
+    "recommendedResponse": "Beri ringkasan manfaat dan harga supaya mudah didiskusikan."
+  }
+]

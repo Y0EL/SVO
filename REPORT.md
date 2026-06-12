@@ -25,13 +25,14 @@ Status validasi:
 | --- | --- | --- |
 | Fly.io deployment | PASS | `https://svo.fly.dev/` mengembalikan JSON status OK |
 | Health endpoint | PASS | `/health` mengembalikan `ok: true` |
-| MCP tool discovery | PASS | Remote MCP SDK berhasil list 8 tools |
+| MCP tool discovery | PASS | Remote MCP SDK berhasil list 12 tools |
 | Claude MCP integration | PASS | Claude berhasil load dan call tools SVO-MCP |
 | Product catalog lookup | PASS | `SVO Glow Serum` ditemukan dari catalog |
 | WhatsApp context retrieval | PASS | Claude berhasil membaca chat `cust-rina` |
 | Bahasa-aware reply draft | PASS | Claude menghasilkan balasan WhatsApp dalam Bahasa Indonesia |
 | Fake WhatsApp send | PASS | `whatsapp_send_message` mengembalikan `sent_to_dummy_store` |
 | Idempotent fake write | PASS | Remote SDK test menunjukkan repeated send dengan key sama menghasilkan `message_id` sama |
+| Analytics stress testing | PASS | Product/script comparison dan hidden gem tools tersedia |
 | Real WhatsApp API | NOT IN SCOPE | Tahap 1 sengaja simulated only |
 
 Kesimpulan: **SVO-MCP passes the intended end-to-end MCP prototype test.**
@@ -88,6 +89,7 @@ Constraint utama dari brief:
 | Perlu tool schema konkret | 8 MCP tools dibuat dengan Zod input schemas dan annotations |
 | Perlu guardrails | Product approved/forbidden claims dan distributor scoping diterapkan |
 | Tidak boleh boil the ocean | Tahap 1 fokus MCP API only, widget/database/API real ditunda |
+| Perlu performance visibility | Analytics tools membandingkan produk, script, campaign, dan hidden gems |
 
 ### PRD Surface Constraint
 
@@ -172,7 +174,7 @@ flowchart TD
 
 ## 4. MCP Server Capabilities
 
-SVO-MCP exposes 8 tools:
+SVO-MCP exposes 12 tools:
 
 | Tool | Type | Purpose |
 | --- | --- | --- |
@@ -184,6 +186,10 @@ SVO-MCP exposes 8 tools:
 | `orders_get_sales_log` | read-only | Read distributor sales summary |
 | `ads_get_performance_summary` | read-only | Read synthetic Meta Ads performance |
 | `patterns_get_network_insights` | read-only | Read anonymized aggregate winning patterns |
+| `analytics_compare_products` | read-only | Explain why one product is preferred over another |
+| `analytics_compare_scripts` | read-only | Explain script engagement/conversion differences |
+| `analytics_explain_campaign_performance` | read-only | Diagnose campaign performance |
+| `analytics_find_hidden_gems` | read-only | Surface surprising growth opportunities |
 
 ### Remote MCP SDK tool discovery evidence
 

@@ -5,7 +5,8 @@
   "type": "module",
   "description": "SVO MCP server with synthetic product, order, ads, and WhatsApp systems for PRD validation.",
   "scripts": {
-    "build": "tsc -p tsconfig.json",
+    "generate:fixtures": "node scripts/generate-fixtures.mjs",
+    "build": "tsc -p tsconfig.json && node scripts/copy-data.mjs",
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts",
     "test": "npm run build && node --test dist/**/*.test.js"

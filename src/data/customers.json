@@ -1,0 +1,6000 @@
+[
+  {
+    "id": "cust-rina",
+    "distributorId": "dist-ayu",
+    "name": "Rina",
+    "phone": "+6281100000000",
+    "city": "Depok",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "kusam"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-001",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-dewi",
+    "distributorId": "dist-ayu",
+    "name": "Dewi",
+    "phone": "+6281100000001",
+    "city": "Bekasi",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-002",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-eka",
+    "distributorId": "dist-bima",
+    "name": "Eka",
+    "phone": "+6281100000002",
+    "city": "Cimahi",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "berat badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-003",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-004",
+    "distributorId": "dist-04",
+    "name": "Lala 4",
+    "phone": "+6281100000003",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-004",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-005",
+    "distributorId": "dist-05",
+    "name": "Tika 5",
+    "phone": "+6281100000004",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-005",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-006",
+    "distributorId": "dist-06",
+    "name": "Ari 6",
+    "phone": "+6281100000005",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-006",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-007",
+    "distributorId": "dist-07",
+    "name": "Nina 7",
+    "phone": "+6281100000006",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-007",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-008",
+    "distributorId": "dist-08",
+    "name": "Doni 8",
+    "phone": "+6281100000007",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-008",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-009",
+    "distributorId": "dist-09",
+    "name": "Sari 9",
+    "phone": "+6281100000008",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-009",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-010",
+    "distributorId": "dist-10",
+    "name": "Wulan 10",
+    "phone": "+6281100000009",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-010",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-011",
+    "distributorId": "dist-11",
+    "name": "Rani 11",
+    "phone": "+6281100000010",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-011",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-012",
+    "distributorId": "dist-12",
+    "name": "Dewi 12",
+    "phone": "+6281100000011",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-012",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-013",
+    "distributorId": "dist-13",
+    "name": "Mira 13",
+    "phone": "+6281100000012",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-013",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-014",
+    "distributorId": "dist-14",
+    "name": "Lala 14",
+    "phone": "+6281100000013",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-014",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-015",
+    "distributorId": "dist-15",
+    "name": "Tika 15",
+    "phone": "+6281100000014",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-015",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-016",
+    "distributorId": "dist-16",
+    "name": "Ari 16",
+    "phone": "+6281100000015",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-016",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-017",
+    "distributorId": "dist-17",
+    "name": "Nina 17",
+    "phone": "+6281100000016",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-017",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-018",
+    "distributorId": "dist-18",
+    "name": "Doni 18",
+    "phone": "+6281100000017",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-018",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-019",
+    "distributorId": "dist-19",
+    "name": "Sari 19",
+    "phone": "+6281100000018",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-019",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-020",
+    "distributorId": "dist-20",
+    "name": "Wulan 20",
+    "phone": "+6281100000019",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-020",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-021",
+    "distributorId": "dist-ayu",
+    "name": "Rani 21",
+    "phone": "+6281100000020",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-021",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-022",
+    "distributorId": "dist-bima",
+    "name": "Dewi 22",
+    "phone": "+6281100000021",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-022",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-023",
+    "distributorId": "dist-03",
+    "name": "Mira 23",
+    "phone": "+6281100000022",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-023",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-024",
+    "distributorId": "dist-04",
+    "name": "Lala 24",
+    "phone": "+6281100000023",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-024",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-025",
+    "distributorId": "dist-05",
+    "name": "Tika 25",
+    "phone": "+6281100000024",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-025",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-026",
+    "distributorId": "dist-06",
+    "name": "Ari 26",
+    "phone": "+6281100000025",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-026",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-027",
+    "distributorId": "dist-07",
+    "name": "Nina 27",
+    "phone": "+6281100000026",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-027",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-028",
+    "distributorId": "dist-08",
+    "name": "Doni 28",
+    "phone": "+6281100000027",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-028",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-029",
+    "distributorId": "dist-09",
+    "name": "Sari 29",
+    "phone": "+6281100000028",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-029",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-030",
+    "distributorId": "dist-10",
+    "name": "Wulan 30",
+    "phone": "+6281100000029",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-030",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-031",
+    "distributorId": "dist-11",
+    "name": "Rani 31",
+    "phone": "+6281100000030",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-031",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-032",
+    "distributorId": "dist-12",
+    "name": "Dewi 32",
+    "phone": "+6281100000031",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-032",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-033",
+    "distributorId": "dist-13",
+    "name": "Mira 33",
+    "phone": "+6281100000032",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-033",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-034",
+    "distributorId": "dist-14",
+    "name": "Lala 34",
+    "phone": "+6281100000033",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-034",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-035",
+    "distributorId": "dist-15",
+    "name": "Tika 35",
+    "phone": "+6281100000034",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-035",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-036",
+    "distributorId": "dist-16",
+    "name": "Ari 36",
+    "phone": "+6281100000035",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-036",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-037",
+    "distributorId": "dist-17",
+    "name": "Nina 37",
+    "phone": "+6281100000036",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-037",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-038",
+    "distributorId": "dist-18",
+    "name": "Doni 38",
+    "phone": "+6281100000037",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-038",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-039",
+    "distributorId": "dist-19",
+    "name": "Sari 39",
+    "phone": "+6281100000038",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-039",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-040",
+    "distributorId": "dist-20",
+    "name": "Wulan 40",
+    "phone": "+6281100000039",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-040",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-041",
+    "distributorId": "dist-ayu",
+    "name": "Rani 41",
+    "phone": "+6281100000040",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-041",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-042",
+    "distributorId": "dist-bima",
+    "name": "Dewi 42",
+    "phone": "+6281100000041",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-042",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-043",
+    "distributorId": "dist-03",
+    "name": "Mira 43",
+    "phone": "+6281100000042",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-043",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-044",
+    "distributorId": "dist-04",
+    "name": "Lala 44",
+    "phone": "+6281100000043",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-044",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-045",
+    "distributorId": "dist-05",
+    "name": "Tika 45",
+    "phone": "+6281100000044",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-045",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-046",
+    "distributorId": "dist-06",
+    "name": "Ari 46",
+    "phone": "+6281100000045",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-046",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-047",
+    "distributorId": "dist-07",
+    "name": "Nina 47",
+    "phone": "+6281100000046",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-047",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-048",
+    "distributorId": "dist-08",
+    "name": "Doni 48",
+    "phone": "+6281100000047",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-048",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-049",
+    "distributorId": "dist-09",
+    "name": "Sari 49",
+    "phone": "+6281100000048",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-049",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-050",
+    "distributorId": "dist-10",
+    "name": "Wulan 50",
+    "phone": "+6281100000049",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-050",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-051",
+    "distributorId": "dist-11",
+    "name": "Rani 51",
+    "phone": "+6281100000050",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-051",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-052",
+    "distributorId": "dist-12",
+    "name": "Dewi 52",
+    "phone": "+6281100000051",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-052",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-053",
+    "distributorId": "dist-13",
+    "name": "Mira 53",
+    "phone": "+6281100000052",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-053",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-054",
+    "distributorId": "dist-14",
+    "name": "Lala 54",
+    "phone": "+6281100000053",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-054",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-055",
+    "distributorId": "dist-15",
+    "name": "Tika 55",
+    "phone": "+6281100000054",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-055",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-056",
+    "distributorId": "dist-16",
+    "name": "Ari 56",
+    "phone": "+6281100000055",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-056",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-057",
+    "distributorId": "dist-17",
+    "name": "Nina 57",
+    "phone": "+6281100000056",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-057",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-058",
+    "distributorId": "dist-18",
+    "name": "Doni 58",
+    "phone": "+6281100000057",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-058",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-059",
+    "distributorId": "dist-19",
+    "name": "Sari 59",
+    "phone": "+6281100000058",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-059",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-060",
+    "distributorId": "dist-20",
+    "name": "Wulan 60",
+    "phone": "+6281100000059",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-060",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-061",
+    "distributorId": "dist-ayu",
+    "name": "Rani 61",
+    "phone": "+6281100000060",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-061",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-062",
+    "distributorId": "dist-bima",
+    "name": "Dewi 62",
+    "phone": "+6281100000061",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-062",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-063",
+    "distributorId": "dist-03",
+    "name": "Mira 63",
+    "phone": "+6281100000062",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-063",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-064",
+    "distributorId": "dist-04",
+    "name": "Lala 64",
+    "phone": "+6281100000063",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-064",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-065",
+    "distributorId": "dist-05",
+    "name": "Tika 65",
+    "phone": "+6281100000064",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-065",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-066",
+    "distributorId": "dist-06",
+    "name": "Ari 66",
+    "phone": "+6281100000065",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-066",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-067",
+    "distributorId": "dist-07",
+    "name": "Nina 67",
+    "phone": "+6281100000066",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-067",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-068",
+    "distributorId": "dist-08",
+    "name": "Doni 68",
+    "phone": "+6281100000067",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-068",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-069",
+    "distributorId": "dist-09",
+    "name": "Sari 69",
+    "phone": "+6281100000068",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-069",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-070",
+    "distributorId": "dist-10",
+    "name": "Wulan 70",
+    "phone": "+6281100000069",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-070",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-071",
+    "distributorId": "dist-11",
+    "name": "Rani 71",
+    "phone": "+6281100000070",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-071",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-072",
+    "distributorId": "dist-12",
+    "name": "Dewi 72",
+    "phone": "+6281100000071",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-072",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-073",
+    "distributorId": "dist-13",
+    "name": "Mira 73",
+    "phone": "+6281100000072",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-073",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-074",
+    "distributorId": "dist-14",
+    "name": "Lala 74",
+    "phone": "+6281100000073",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-074",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-075",
+    "distributorId": "dist-15",
+    "name": "Tika 75",
+    "phone": "+6281100000074",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-075",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-076",
+    "distributorId": "dist-16",
+    "name": "Ari 76",
+    "phone": "+6281100000075",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-076",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-077",
+    "distributorId": "dist-17",
+    "name": "Nina 77",
+    "phone": "+6281100000076",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-077",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-078",
+    "distributorId": "dist-18",
+    "name": "Doni 78",
+    "phone": "+6281100000077",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-078",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-079",
+    "distributorId": "dist-19",
+    "name": "Sari 79",
+    "phone": "+6281100000078",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-079",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-080",
+    "distributorId": "dist-20",
+    "name": "Wulan 80",
+    "phone": "+6281100000079",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-080",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-081",
+    "distributorId": "dist-ayu",
+    "name": "Rani 81",
+    "phone": "+6281100000080",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-081",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-082",
+    "distributorId": "dist-bima",
+    "name": "Dewi 82",
+    "phone": "+6281100000081",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-082",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-083",
+    "distributorId": "dist-03",
+    "name": "Mira 83",
+    "phone": "+6281100000082",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-083",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-084",
+    "distributorId": "dist-04",
+    "name": "Lala 84",
+    "phone": "+6281100000083",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-084",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-085",
+    "distributorId": "dist-05",
+    "name": "Tika 85",
+    "phone": "+6281100000084",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-085",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-086",
+    "distributorId": "dist-06",
+    "name": "Ari 86",
+    "phone": "+6281100000085",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-086",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-087",
+    "distributorId": "dist-07",
+    "name": "Nina 87",
+    "phone": "+6281100000086",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-087",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-088",
+    "distributorId": "dist-08",
+    "name": "Doni 88",
+    "phone": "+6281100000087",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-088",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-089",
+    "distributorId": "dist-09",
+    "name": "Sari 89",
+    "phone": "+6281100000088",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-089",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-090",
+    "distributorId": "dist-10",
+    "name": "Wulan 90",
+    "phone": "+6281100000089",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-090",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-091",
+    "distributorId": "dist-11",
+    "name": "Rani 91",
+    "phone": "+6281100000090",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-091",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-092",
+    "distributorId": "dist-12",
+    "name": "Dewi 92",
+    "phone": "+6281100000091",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-092",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-093",
+    "distributorId": "dist-13",
+    "name": "Mira 93",
+    "phone": "+6281100000092",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-093",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-094",
+    "distributorId": "dist-14",
+    "name": "Lala 94",
+    "phone": "+6281100000093",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-094",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-095",
+    "distributorId": "dist-15",
+    "name": "Tika 95",
+    "phone": "+6281100000094",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-095",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-096",
+    "distributorId": "dist-16",
+    "name": "Ari 96",
+    "phone": "+6281100000095",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-096",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-097",
+    "distributorId": "dist-17",
+    "name": "Nina 97",
+    "phone": "+6281100000096",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-097",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-098",
+    "distributorId": "dist-18",
+    "name": "Doni 98",
+    "phone": "+6281100000097",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-098",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-099",
+    "distributorId": "dist-19",
+    "name": "Sari 99",
+    "phone": "+6281100000098",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-099",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-100",
+    "distributorId": "dist-20",
+    "name": "Wulan 100",
+    "phone": "+6281100000099",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-100",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-101",
+    "distributorId": "dist-ayu",
+    "name": "Rani 101",
+    "phone": "+6281100000100",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-101",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-102",
+    "distributorId": "dist-bima",
+    "name": "Dewi 102",
+    "phone": "+6281100000101",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-102",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-103",
+    "distributorId": "dist-03",
+    "name": "Mira 103",
+    "phone": "+6281100000102",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-103",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-104",
+    "distributorId": "dist-04",
+    "name": "Lala 104",
+    "phone": "+6281100000103",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-104",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-105",
+    "distributorId": "dist-05",
+    "name": "Tika 105",
+    "phone": "+6281100000104",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-105",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-106",
+    "distributorId": "dist-06",
+    "name": "Ari 106",
+    "phone": "+6281100000105",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-106",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-107",
+    "distributorId": "dist-07",
+    "name": "Nina 107",
+    "phone": "+6281100000106",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-107",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-108",
+    "distributorId": "dist-08",
+    "name": "Doni 108",
+    "phone": "+6281100000107",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-108",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-109",
+    "distributorId": "dist-09",
+    "name": "Sari 109",
+    "phone": "+6281100000108",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-109",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-110",
+    "distributorId": "dist-10",
+    "name": "Wulan 110",
+    "phone": "+6281100000109",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-110",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-111",
+    "distributorId": "dist-11",
+    "name": "Rani 111",
+    "phone": "+6281100000110",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-111",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-112",
+    "distributorId": "dist-12",
+    "name": "Dewi 112",
+    "phone": "+6281100000111",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-112",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-113",
+    "distributorId": "dist-13",
+    "name": "Mira 113",
+    "phone": "+6281100000112",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-113",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-114",
+    "distributorId": "dist-14",
+    "name": "Lala 114",
+    "phone": "+6281100000113",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-114",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-115",
+    "distributorId": "dist-15",
+    "name": "Tika 115",
+    "phone": "+6281100000114",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-115",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-116",
+    "distributorId": "dist-16",
+    "name": "Ari 116",
+    "phone": "+6281100000115",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-116",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-117",
+    "distributorId": "dist-17",
+    "name": "Nina 117",
+    "phone": "+6281100000116",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-117",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-118",
+    "distributorId": "dist-18",
+    "name": "Doni 118",
+    "phone": "+6281100000117",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-118",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-119",
+    "distributorId": "dist-19",
+    "name": "Sari 119",
+    "phone": "+6281100000118",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-119",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-120",
+    "distributorId": "dist-20",
+    "name": "Wulan 120",
+    "phone": "+6281100000119",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-120",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-121",
+    "distributorId": "dist-ayu",
+    "name": "Rani 121",
+    "phone": "+6281100000120",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-121",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-122",
+    "distributorId": "dist-bima",
+    "name": "Dewi 122",
+    "phone": "+6281100000121",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-122",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-123",
+    "distributorId": "dist-03",
+    "name": "Mira 123",
+    "phone": "+6281100000122",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-123",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-124",
+    "distributorId": "dist-04",
+    "name": "Lala 124",
+    "phone": "+6281100000123",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-124",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-125",
+    "distributorId": "dist-05",
+    "name": "Tika 125",
+    "phone": "+6281100000124",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-125",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-126",
+    "distributorId": "dist-06",
+    "name": "Ari 126",
+    "phone": "+6281100000125",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-126",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-127",
+    "distributorId": "dist-07",
+    "name": "Nina 127",
+    "phone": "+6281100000126",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-127",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-128",
+    "distributorId": "dist-08",
+    "name": "Doni 128",
+    "phone": "+6281100000127",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-128",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-129",
+    "distributorId": "dist-09",
+    "name": "Sari 129",
+    "phone": "+6281100000128",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-129",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-130",
+    "distributorId": "dist-10",
+    "name": "Wulan 130",
+    "phone": "+6281100000129",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-130",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-131",
+    "distributorId": "dist-11",
+    "name": "Rani 131",
+    "phone": "+6281100000130",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-131",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-132",
+    "distributorId": "dist-12",
+    "name": "Dewi 132",
+    "phone": "+6281100000131",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-132",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-133",
+    "distributorId": "dist-13",
+    "name": "Mira 133",
+    "phone": "+6281100000132",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-133",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-134",
+    "distributorId": "dist-14",
+    "name": "Lala 134",
+    "phone": "+6281100000133",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-134",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-135",
+    "distributorId": "dist-15",
+    "name": "Tika 135",
+    "phone": "+6281100000134",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-135",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-136",
+    "distributorId": "dist-16",
+    "name": "Ari 136",
+    "phone": "+6281100000135",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-136",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-137",
+    "distributorId": "dist-17",
+    "name": "Nina 137",
+    "phone": "+6281100000136",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-137",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-138",
+    "distributorId": "dist-18",
+    "name": "Doni 138",
+    "phone": "+6281100000137",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-138",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-139",
+    "distributorId": "dist-19",
+    "name": "Sari 139",
+    "phone": "+6281100000138",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-139",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-140",
+    "distributorId": "dist-20",
+    "name": "Wulan 140",
+    "phone": "+6281100000139",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-140",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-141",
+    "distributorId": "dist-ayu",
+    "name": "Rani 141",
+    "phone": "+6281100000140",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-141",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-142",
+    "distributorId": "dist-bima",
+    "name": "Dewi 142",
+    "phone": "+6281100000141",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-142",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-143",
+    "distributorId": "dist-03",
+    "name": "Mira 143",
+    "phone": "+6281100000142",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-143",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-144",
+    "distributorId": "dist-04",
+    "name": "Lala 144",
+    "phone": "+6281100000143",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-144",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-145",
+    "distributorId": "dist-05",
+    "name": "Tika 145",
+    "phone": "+6281100000144",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-145",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-146",
+    "distributorId": "dist-06",
+    "name": "Ari 146",
+    "phone": "+6281100000145",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-146",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-147",
+    "distributorId": "dist-07",
+    "name": "Nina 147",
+    "phone": "+6281100000146",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-147",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-148",
+    "distributorId": "dist-08",
+    "name": "Doni 148",
+    "phone": "+6281100000147",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-148",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-149",
+    "distributorId": "dist-09",
+    "name": "Sari 149",
+    "phone": "+6281100000148",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-149",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-150",
+    "distributorId": "dist-10",
+    "name": "Wulan 150",
+    "phone": "+6281100000149",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-150",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-151",
+    "distributorId": "dist-11",
+    "name": "Rani 151",
+    "phone": "+6281100000150",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-001",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-152",
+    "distributorId": "dist-12",
+    "name": "Dewi 152",
+    "phone": "+6281100000151",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-002",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-153",
+    "distributorId": "dist-13",
+    "name": "Mira 153",
+    "phone": "+6281100000152",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-003",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-154",
+    "distributorId": "dist-14",
+    "name": "Lala 154",
+    "phone": "+6281100000153",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-004",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-155",
+    "distributorId": "dist-15",
+    "name": "Tika 155",
+    "phone": "+6281100000154",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-005",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-156",
+    "distributorId": "dist-16",
+    "name": "Ari 156",
+    "phone": "+6281100000155",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-006",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-157",
+    "distributorId": "dist-17",
+    "name": "Nina 157",
+    "phone": "+6281100000156",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-007",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-158",
+    "distributorId": "dist-18",
+    "name": "Doni 158",
+    "phone": "+6281100000157",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-008",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-159",
+    "distributorId": "dist-19",
+    "name": "Sari 159",
+    "phone": "+6281100000158",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-009",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-160",
+    "distributorId": "dist-20",
+    "name": "Wulan 160",
+    "phone": "+6281100000159",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-010",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-161",
+    "distributorId": "dist-ayu",
+    "name": "Rani 161",
+    "phone": "+6281100000160",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-011",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-162",
+    "distributorId": "dist-bima",
+    "name": "Dewi 162",
+    "phone": "+6281100000161",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-012",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-163",
+    "distributorId": "dist-03",
+    "name": "Mira 163",
+    "phone": "+6281100000162",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-013",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-164",
+    "distributorId": "dist-04",
+    "name": "Lala 164",
+    "phone": "+6281100000163",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-014",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-165",
+    "distributorId": "dist-05",
+    "name": "Tika 165",
+    "phone": "+6281100000164",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-015",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-166",
+    "distributorId": "dist-06",
+    "name": "Ari 166",
+    "phone": "+6281100000165",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-016",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-167",
+    "distributorId": "dist-07",
+    "name": "Nina 167",
+    "phone": "+6281100000166",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-017",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-168",
+    "distributorId": "dist-08",
+    "name": "Doni 168",
+    "phone": "+6281100000167",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-018",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-169",
+    "distributorId": "dist-09",
+    "name": "Sari 169",
+    "phone": "+6281100000168",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-019",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-170",
+    "distributorId": "dist-10",
+    "name": "Wulan 170",
+    "phone": "+6281100000169",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-020",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-171",
+    "distributorId": "dist-11",
+    "name": "Rani 171",
+    "phone": "+6281100000170",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-021",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-172",
+    "distributorId": "dist-12",
+    "name": "Dewi 172",
+    "phone": "+6281100000171",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-022",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-173",
+    "distributorId": "dist-13",
+    "name": "Mira 173",
+    "phone": "+6281100000172",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-023",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-174",
+    "distributorId": "dist-14",
+    "name": "Lala 174",
+    "phone": "+6281100000173",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-024",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-175",
+    "distributorId": "dist-15",
+    "name": "Tika 175",
+    "phone": "+6281100000174",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-025",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-176",
+    "distributorId": "dist-16",
+    "name": "Ari 176",
+    "phone": "+6281100000175",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-026",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-177",
+    "distributorId": "dist-17",
+    "name": "Nina 177",
+    "phone": "+6281100000176",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-027",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-178",
+    "distributorId": "dist-18",
+    "name": "Doni 178",
+    "phone": "+6281100000177",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-028",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-179",
+    "distributorId": "dist-19",
+    "name": "Sari 179",
+    "phone": "+6281100000178",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-029",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-180",
+    "distributorId": "dist-20",
+    "name": "Wulan 180",
+    "phone": "+6281100000179",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-030",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-181",
+    "distributorId": "dist-ayu",
+    "name": "Rani 181",
+    "phone": "+6281100000180",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-031",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-182",
+    "distributorId": "dist-bima",
+    "name": "Dewi 182",
+    "phone": "+6281100000181",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-032",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-183",
+    "distributorId": "dist-03",
+    "name": "Mira 183",
+    "phone": "+6281100000182",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-033",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-184",
+    "distributorId": "dist-04",
+    "name": "Lala 184",
+    "phone": "+6281100000183",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-034",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-185",
+    "distributorId": "dist-05",
+    "name": "Tika 185",
+    "phone": "+6281100000184",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-035",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-186",
+    "distributorId": "dist-06",
+    "name": "Ari 186",
+    "phone": "+6281100000185",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-036",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-187",
+    "distributorId": "dist-07",
+    "name": "Nina 187",
+    "phone": "+6281100000186",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-037",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-188",
+    "distributorId": "dist-08",
+    "name": "Doni 188",
+    "phone": "+6281100000187",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-038",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-189",
+    "distributorId": "dist-09",
+    "name": "Sari 189",
+    "phone": "+6281100000188",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-039",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-190",
+    "distributorId": "dist-10",
+    "name": "Wulan 190",
+    "phone": "+6281100000189",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-040",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-191",
+    "distributorId": "dist-11",
+    "name": "Rani 191",
+    "phone": "+6281100000190",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-041",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-192",
+    "distributorId": "dist-12",
+    "name": "Dewi 192",
+    "phone": "+6281100000191",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-042",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-193",
+    "distributorId": "dist-13",
+    "name": "Mira 193",
+    "phone": "+6281100000192",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-043",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-194",
+    "distributorId": "dist-14",
+    "name": "Lala 194",
+    "phone": "+6281100000193",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-044",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-195",
+    "distributorId": "dist-15",
+    "name": "Tika 195",
+    "phone": "+6281100000194",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-045",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-196",
+    "distributorId": "dist-16",
+    "name": "Ari 196",
+    "phone": "+6281100000195",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-046",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-197",
+    "distributorId": "dist-17",
+    "name": "Nina 197",
+    "phone": "+6281100000196",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-047",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-198",
+    "distributorId": "dist-18",
+    "name": "Doni 198",
+    "phone": "+6281100000197",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-048",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-199",
+    "distributorId": "dist-19",
+    "name": "Sari 199",
+    "phone": "+6281100000198",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-049",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-200",
+    "distributorId": "dist-20",
+    "name": "Wulan 200",
+    "phone": "+6281100000199",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-050",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-201",
+    "distributorId": "dist-ayu",
+    "name": "Rani 201",
+    "phone": "+6281100000200",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-051",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-202",
+    "distributorId": "dist-bima",
+    "name": "Dewi 202",
+    "phone": "+6281100000201",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-052",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-203",
+    "distributorId": "dist-03",
+    "name": "Mira 203",
+    "phone": "+6281100000202",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-053",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-204",
+    "distributorId": "dist-04",
+    "name": "Lala 204",
+    "phone": "+6281100000203",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-054",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-205",
+    "distributorId": "dist-05",
+    "name": "Tika 205",
+    "phone": "+6281100000204",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-055",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-206",
+    "distributorId": "dist-06",
+    "name": "Ari 206",
+    "phone": "+6281100000205",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-056",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-207",
+    "distributorId": "dist-07",
+    "name": "Nina 207",
+    "phone": "+6281100000206",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-057",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-208",
+    "distributorId": "dist-08",
+    "name": "Doni 208",
+    "phone": "+6281100000207",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-058",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-209",
+    "distributorId": "dist-09",
+    "name": "Sari 209",
+    "phone": "+6281100000208",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-059",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-210",
+    "distributorId": "dist-10",
+    "name": "Wulan 210",
+    "phone": "+6281100000209",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-060",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-211",
+    "distributorId": "dist-11",
+    "name": "Rani 211",
+    "phone": "+6281100000210",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-061",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-212",
+    "distributorId": "dist-12",
+    "name": "Dewi 212",
+    "phone": "+6281100000211",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-062",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-213",
+    "distributorId": "dist-13",
+    "name": "Mira 213",
+    "phone": "+6281100000212",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-063",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-214",
+    "distributorId": "dist-14",
+    "name": "Lala 214",
+    "phone": "+6281100000213",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-064",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-215",
+    "distributorId": "dist-15",
+    "name": "Tika 215",
+    "phone": "+6281100000214",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-065",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-216",
+    "distributorId": "dist-16",
+    "name": "Ari 216",
+    "phone": "+6281100000215",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-066",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-217",
+    "distributorId": "dist-17",
+    "name": "Nina 217",
+    "phone": "+6281100000216",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-067",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-218",
+    "distributorId": "dist-18",
+    "name": "Doni 218",
+    "phone": "+6281100000217",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-068",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-219",
+    "distributorId": "dist-19",
+    "name": "Sari 219",
+    "phone": "+6281100000218",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-069",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-220",
+    "distributorId": "dist-20",
+    "name": "Wulan 220",
+    "phone": "+6281100000219",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-070",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-221",
+    "distributorId": "dist-ayu",
+    "name": "Rani 221",
+    "phone": "+6281100000220",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-071",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-222",
+    "distributorId": "dist-bima",
+    "name": "Dewi 222",
+    "phone": "+6281100000221",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-072",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-223",
+    "distributorId": "dist-03",
+    "name": "Mira 223",
+    "phone": "+6281100000222",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-073",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-224",
+    "distributorId": "dist-04",
+    "name": "Lala 224",
+    "phone": "+6281100000223",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-074",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-225",
+    "distributorId": "dist-05",
+    "name": "Tika 225",
+    "phone": "+6281100000224",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-075",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-226",
+    "distributorId": "dist-06",
+    "name": "Ari 226",
+    "phone": "+6281100000225",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-076",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-227",
+    "distributorId": "dist-07",
+    "name": "Nina 227",
+    "phone": "+6281100000226",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-077",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-228",
+    "distributorId": "dist-08",
+    "name": "Doni 228",
+    "phone": "+6281100000227",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-078",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-229",
+    "distributorId": "dist-09",
+    "name": "Sari 229",
+    "phone": "+6281100000228",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-079",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-230",
+    "distributorId": "dist-10",
+    "name": "Wulan 230",
+    "phone": "+6281100000229",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-080",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-231",
+    "distributorId": "dist-11",
+    "name": "Rani 231",
+    "phone": "+6281100000230",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-081",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-232",
+    "distributorId": "dist-12",
+    "name": "Dewi 232",
+    "phone": "+6281100000231",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-082",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-233",
+    "distributorId": "dist-13",
+    "name": "Mira 233",
+    "phone": "+6281100000232",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-083",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-234",
+    "distributorId": "dist-14",
+    "name": "Lala 234",
+    "phone": "+6281100000233",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-084",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-235",
+    "distributorId": "dist-15",
+    "name": "Tika 235",
+    "phone": "+6281100000234",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-085",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-236",
+    "distributorId": "dist-16",
+    "name": "Ari 236",
+    "phone": "+6281100000235",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-086",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-237",
+    "distributorId": "dist-17",
+    "name": "Nina 237",
+    "phone": "+6281100000236",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-087",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-238",
+    "distributorId": "dist-18",
+    "name": "Doni 238",
+    "phone": "+6281100000237",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-088",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-239",
+    "distributorId": "dist-19",
+    "name": "Sari 239",
+    "phone": "+6281100000238",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-089",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-240",
+    "distributorId": "dist-20",
+    "name": "Wulan 240",
+    "phone": "+6281100000239",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-090",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-241",
+    "distributorId": "dist-ayu",
+    "name": "Rani 241",
+    "phone": "+6281100000240",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-091",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-242",
+    "distributorId": "dist-bima",
+    "name": "Dewi 242",
+    "phone": "+6281100000241",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-092",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-243",
+    "distributorId": "dist-03",
+    "name": "Mira 243",
+    "phone": "+6281100000242",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-093",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-244",
+    "distributorId": "dist-04",
+    "name": "Lala 244",
+    "phone": "+6281100000243",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-094",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-245",
+    "distributorId": "dist-05",
+    "name": "Tika 245",
+    "phone": "+6281100000244",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-095",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-246",
+    "distributorId": "dist-06",
+    "name": "Ari 246",
+    "phone": "+6281100000245",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-096",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-247",
+    "distributorId": "dist-07",
+    "name": "Nina 247",
+    "phone": "+6281100000246",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-097",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-248",
+    "distributorId": "dist-08",
+    "name": "Doni 248",
+    "phone": "+6281100000247",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-098",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-249",
+    "distributorId": "dist-09",
+    "name": "Sari 249",
+    "phone": "+6281100000248",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-099",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-250",
+    "distributorId": "dist-10",
+    "name": "Wulan 250",
+    "phone": "+6281100000249",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-100",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-251",
+    "distributorId": "dist-11",
+    "name": "Rani 251",
+    "phone": "+6281100000250",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-101",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-252",
+    "distributorId": "dist-12",
+    "name": "Dewi 252",
+    "phone": "+6281100000251",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-102",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-253",
+    "distributorId": "dist-13",
+    "name": "Mira 253",
+    "phone": "+6281100000252",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-103",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-254",
+    "distributorId": "dist-14",
+    "name": "Lala 254",
+    "phone": "+6281100000253",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-104",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-255",
+    "distributorId": "dist-15",
+    "name": "Tika 255",
+    "phone": "+6281100000254",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-105",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-256",
+    "distributorId": "dist-16",
+    "name": "Ari 256",
+    "phone": "+6281100000255",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-106",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-257",
+    "distributorId": "dist-17",
+    "name": "Nina 257",
+    "phone": "+6281100000256",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-107",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-258",
+    "distributorId": "dist-18",
+    "name": "Doni 258",
+    "phone": "+6281100000257",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-108",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-259",
+    "distributorId": "dist-19",
+    "name": "Sari 259",
+    "phone": "+6281100000258",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-109",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-260",
+    "distributorId": "dist-20",
+    "name": "Wulan 260",
+    "phone": "+6281100000259",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-110",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-261",
+    "distributorId": "dist-ayu",
+    "name": "Rani 261",
+    "phone": "+6281100000260",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-111",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-262",
+    "distributorId": "dist-bima",
+    "name": "Dewi 262",
+    "phone": "+6281100000261",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-112",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-263",
+    "distributorId": "dist-03",
+    "name": "Mira 263",
+    "phone": "+6281100000262",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-113",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-264",
+    "distributorId": "dist-04",
+    "name": "Lala 264",
+    "phone": "+6281100000263",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-114",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-265",
+    "distributorId": "dist-05",
+    "name": "Tika 265",
+    "phone": "+6281100000264",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-115",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-266",
+    "distributorId": "dist-06",
+    "name": "Ari 266",
+    "phone": "+6281100000265",
+    "city": "Semarang",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-116",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-267",
+    "distributorId": "dist-07",
+    "name": "Nina 267",
+    "phone": "+6281100000266",
+    "city": "Jakarta",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-117",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-268",
+    "distributorId": "dist-08",
+    "name": "Doni 268",
+    "phone": "+6281100000267",
+    "city": "Bandung",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-118",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-269",
+    "distributorId": "dist-09",
+    "name": "Sari 269",
+    "phone": "+6281100000268",
+    "city": "Surabaya",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-119",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-270",
+    "distributorId": "dist-10",
+    "name": "Wulan 270",
+    "phone": "+6281100000269",
+    "city": "Medan",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-120",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-271",
+    "distributorId": "dist-11",
+    "name": "Rani 271",
+    "phone": "+6281100000270",
+    "city": "Makassar",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-121",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-272",
+    "distributorId": "dist-12",
+    "name": "Dewi 272",
+    "phone": "+6281100000271",
+    "city": "Bali",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-122",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-273",
+    "distributorId": "dist-13",
+    "name": "Mira 273",
+    "phone": "+6281100000272",
+    "city": "Semarang",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-123",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-274",
+    "distributorId": "dist-14",
+    "name": "Lala 274",
+    "phone": "+6281100000273",
+    "city": "Jakarta",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-124",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-275",
+    "distributorId": "dist-15",
+    "name": "Tika 275",
+    "phone": "+6281100000274",
+    "city": "Bandung",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-125",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-276",
+    "distributorId": "dist-16",
+    "name": "Ari 276",
+    "phone": "+6281100000275",
+    "city": "Surabaya",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-126",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-277",
+    "distributorId": "dist-17",
+    "name": "Nina 277",
+    "phone": "+6281100000276",
+    "city": "Medan",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-127",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-278",
+    "distributorId": "dist-18",
+    "name": "Doni 278",
+    "phone": "+6281100000277",
+    "city": "Makassar",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-128",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-279",
+    "distributorId": "dist-19",
+    "name": "Sari 279",
+    "phone": "+6281100000278",
+    "city": "Bali",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-129",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-280",
+    "distributorId": "dist-20",
+    "name": "Wulan 280",
+    "phone": "+6281100000279",
+    "city": "Semarang",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-130",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-281",
+    "distributorId": "dist-ayu",
+    "name": "Rani 281",
+    "phone": "+6281100000280",
+    "city": "Jakarta",
+    "leadStage": "new",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-131",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-282",
+    "distributorId": "dist-bima",
+    "name": "Dewi 282",
+    "phone": "+6281100000281",
+    "city": "Bandung",
+    "leadStage": "considering",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-132",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-283",
+    "distributorId": "dist-03",
+    "name": "Mira 283",
+    "phone": "+6281100000282",
+    "city": "Surabaya",
+    "leadStage": "objection",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-133",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-284",
+    "distributorId": "dist-04",
+    "name": "Lala 284",
+    "phone": "+6281100000283",
+    "city": "Medan",
+    "leadStage": "ready_to_order",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-134",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-285",
+    "distributorId": "dist-05",
+    "name": "Tika 285",
+    "phone": "+6281100000284",
+    "city": "Makassar",
+    "leadStage": "customer",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-135",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-286",
+    "distributorId": "dist-06",
+    "name": "Ari 286",
+    "phone": "+6281100000285",
+    "city": "Bali",
+    "leadStage": "new",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-136",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-287",
+    "distributorId": "dist-07",
+    "name": "Nina 287",
+    "phone": "+6281100000286",
+    "city": "Semarang",
+    "leadStage": "considering",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-137",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-288",
+    "distributorId": "dist-08",
+    "name": "Doni 288",
+    "phone": "+6281100000287",
+    "city": "Jakarta",
+    "leadStage": "objection",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-138",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-289",
+    "distributorId": "dist-09",
+    "name": "Sari 289",
+    "phone": "+6281100000288",
+    "city": "Bandung",
+    "leadStage": "ready_to_order",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-139",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-290",
+    "distributorId": "dist-10",
+    "name": "Wulan 290",
+    "phone": "+6281100000289",
+    "city": "Surabaya",
+    "leadStage": "customer",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-140",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-291",
+    "distributorId": "dist-11",
+    "name": "Rani 291",
+    "phone": "+6281100000290",
+    "city": "Medan",
+    "leadStage": "new",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-141",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-292",
+    "distributorId": "dist-12",
+    "name": "Dewi 292",
+    "phone": "+6281100000291",
+    "city": "Makassar",
+    "leadStage": "considering",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-142",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-293",
+    "distributorId": "dist-13",
+    "name": "Mira 293",
+    "phone": "+6281100000292",
+    "city": "Bali",
+    "leadStage": "objection",
+    "ageBand": "18-24",
+    "concerns": [
+      "energi pagi",
+      "kulit kering"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-143",
+    "objectionTags": [
+      "cod"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-294",
+    "distributorId": "dist-14",
+    "name": "Lala 294",
+    "phone": "+6281100000293",
+    "city": "Semarang",
+    "leadStage": "ready_to_order",
+    "ageBand": "25-34",
+    "concerns": [
+      "bau badan",
+      "flek"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-144",
+    "objectionTags": [
+      "bpom"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-295",
+    "distributorId": "dist-15",
+    "name": "Tika 295",
+    "phone": "+6281100000294",
+    "city": "Jakarta",
+    "leadStage": "customer",
+    "ageBand": "35-44",
+    "concerns": [
+      "rambut rontok",
+      "kusam"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-145",
+    "objectionTags": [
+      "side_effect"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-296",
+    "distributorId": "dist-16",
+    "name": "Ari 296",
+    "phone": "+6281100000295",
+    "city": "Bandung",
+    "leadStage": "new",
+    "ageBand": "45+",
+    "concerns": [
+      "kulit kering",
+      "jerawat"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "low",
+    "sourceCampaignId": "camp-146",
+    "objectionTags": [
+      "spouse_approval"
+    ],
+    "preferredTone": "urgent"
+  },
+  {
+    "id": "cust-297",
+    "distributorId": "dist-17",
+    "name": "Nina 297",
+    "phone": "+6281100000296",
+    "city": "Surabaya",
+    "leadStage": "considering",
+    "ageBand": "18-24",
+    "concerns": [
+      "flek",
+      "berat badan"
+    ],
+    "budgetSensitivity": "high",
+    "trustLevel": "medium",
+    "sourceCampaignId": "camp-147",
+    "objectionTags": [
+      "price"
+    ],
+    "preferredTone": "friendly"
+  },
+  {
+    "id": "cust-298",
+    "distributorId": "dist-18",
+    "name": "Doni 298",
+    "phone": "+6281100000297",
+    "city": "Medan",
+    "leadStage": "objection",
+    "ageBand": "25-34",
+    "concerns": [
+      "kusam",
+      "energi pagi"
+    ],
+    "budgetSensitivity": "medium",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-148",
+    "objectionTags": [
+      "trust"
+    ],
+    "preferredTone": "concise"
+  },
+  {
+    "id": "cust-299",
+    "distributorId": "dist-19",
+    "name": "Sari 299",
+    "phone": "+6281100000298",
+    "city": "Makassar",
+    "leadStage": "ready_to_order",
+    "ageBand": "35-44",
+    "concerns": [
+      "jerawat",
+      "bau badan"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-149",
+    "objectionTags": [
+      "claim_risk"
+    ],
+    "preferredTone": "consultative"
+  },
+  {
+    "id": "cust-300",
+    "distributorId": "dist-20",
+    "name": "Wulan 300",
+    "phone": "+6281100000299",
+    "city": "Bali",
+    "leadStage": "customer",
+    "ageBand": "45+",
+    "concerns": [
+      "berat badan",
+      "rambut rontok"
+    ],
+    "budgetSensitivity": "low",
+    "trustLevel": "high",
+    "sourceCampaignId": "camp-150",
+    "objectionTags": [
+      "shipping"
+    ],
+    "preferredTone": "urgent"
+  }
+]

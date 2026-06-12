@@ -2,6 +2,10 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import * as z from "zod/v4";
 import {
   adsGetPerformanceSummary,
+  analyticsCompareProducts,
+  analyticsCompareScripts,
+  analyticsExplainCampaignPerformance,
+  analyticsFindHiddenGems,
   catalogLookupProduct,
   ordersCreateDraftOrder,
   ordersGetSalesLog,
@@ -181,6 +185,78 @@ export function createSvoMcpServer(store: SvoStore) {
       annotations: { readOnlyHint: true }
     },
     async (input) => asToolResult({ result: patternsGetNetworkInsights(store, input) })
+  );
+
+  server.registerTool(
+    "analytics_compare_products",
+    {
+      title: "Compare product performance",
+      description:
+        "Explain why one product is preferred over another using synthetic demand, conversion, revenue, ROAS, repeat orders, and objections.",
+      inputSchema: {
+        product_ids: z.array(z.string().min(1)).min(2),
+        distributor_id: z.string().optional(),
+        segment: z.string().optional(),
+        date_from: z.string().optional(),
+        date_to: z.string().optional()
+      },
+      outputSchema: jsonOutput,
+      annotations: { readOnlyHint: true }
+    },
+    async (input) => asToolResult({ result: analyticsCompareProducts(store, input) })
+  );
+
+  server.registerTool(
+    "analytics_compare_scripts",
+    {
+      title: "Compare creative or WhatsApp scripts",
+      description:
+        "Explain why one script gets different engagement or conversion than another by hook, CTA, tone, stage, segment, and claim risk.",
+      inputSchema: {
+        script_ids: z.array(z.string().min(1)).min(2),
+        product_id: z.string().optional(),
+        channel: z.enum(["meta_ads", "whatsapp"]).optional(),
+        lead_stage: z.string().optional(),
+        segment: z.string().optional()
+      },
+      outputSchema: jsonOutput,
+      annotations: { readOnlyHint: true }
+    },
+    async (input) => asToolResult({ result: analyticsCompareScripts(store, input) })
+  );
+
+  server.registerTool(
+    "analytics_explain_campaign_performance",
+    {
+      title: "Explain campaign performance",
+      description:
+        "Diagnose synthetic Meta Ads performance across creative angle, audience, product fit, WhatsApp follow-up, and order conversion.",
+      inputSchema: {
+        campaign_id: z.string().optional(),
+        distributor_id: z.string().optional(),
+        product_id: z.string().optional()
+      },
+      outputSchema: jsonOutput,
+      annotations: { readOnlyHint: true }
+    },
+    async (input) => asToolResult({ result: analyticsExplainCampaignPerformance(store, input) })
+  );
+
+  server.registerTool(
+    "analytics_find_hidden_gems",
+    {
+      title: "Find hidden growth opportunities",
+      description:
+        "Find surprising privacy-safe opportunities such as low-spend/high-ROAS campaigns, low-CTR/high-conversion hooks, and risky high-engagement scripts.",
+      inputSchema: {
+        product_id: z.string().optional(),
+        category: z.string().optional(),
+        min_confidence: z.enum(["low", "medium", "high"]).optional()
+      },
+      outputSchema: jsonOutput,
+      annotations: { readOnlyHint: true }
+    },
+    async (input) => asToolResult({ result: analyticsFindHiddenGems(store, input) })
   );
 
   return server;

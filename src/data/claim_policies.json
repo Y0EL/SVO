@@ -1,0 +1,196 @@
+[
+  {
+    "productId": "prod-glow-serum",
+    "riskyPatterns": [
+      "menyembuhkan jerawat",
+      "memutihkan permanen",
+      "menghilangkan flek dalam 3 hari",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu kulit terasa lebih lembap",
+      "membantu tampilan kulit terlihat lebih cerah",
+      "ringan untuk rutinitas pagi dan malam"
+    ]
+  },
+  {
+    "productId": "prod-fit-coffee",
+    "riskyPatterns": [
+      "menurunkan berat badan tanpa diet",
+      "membakar lemak pasti",
+      "mengobati diabetes",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "kopi praktis untuk menemani rutinitas pagi",
+      "rasa ringan dan mudah diseduh",
+      "cocok diposisikan sebagai habit replacement"
+    ]
+  },
+  {
+    "productId": "prod-clear-wash",
+    "riskyPatterns": [
+      "menyembuhkan jerawat parah",
+      "menghilangkan komedo permanen",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu membersihkan wajah dari minyak berlebih",
+      "lembut untuk pemakaian harian"
+    ]
+  },
+  {
+    "productId": "prod-body-bright",
+    "riskyPatterns": [
+      "memutihkan permanen",
+      "hasil putih dalam seminggu",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu kulit terasa lembut",
+      "membantu tampilan kulit tampak lebih terawat"
+    ]
+  },
+  {
+    "productId": "prod-hair-vital",
+    "riskyPatterns": [
+      "menumbuhkan rambut botak",
+      "mengobati alopecia",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu rambut terasa lebih kuat",
+      "mendukung rutinitas perawatan kulit kepala"
+    ]
+  },
+  {
+    "productId": "prod-deo-fresh",
+    "riskyPatterns": [
+      "menghilangkan bau badan permanen",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu menjaga rasa segar lebih lama",
+      "praktis untuk aktivitas harian"
+    ]
+  },
+  {
+    "productId": "prod-calm-toner",
+    "riskyPatterns": [
+      "menyembuhkan iritasi",
+      "mengobati alergi kulit",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu kulit terasa segar",
+      "cocok untuk layering skincare ringan"
+    ]
+  },
+  {
+    "productId": "prod-slim-tea",
+    "riskyPatterns": [
+      "turun 5kg seminggu",
+      "melunturkan lemak",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "minuman herbal praktis untuk rutinitas malam",
+      "rasa ringan dan nyaman"
+    ]
+  },
+  {
+    "productId": "prod-sun-guard",
+    "riskyPatterns": [
+      "menghilangkan melasma",
+      "perlindungan 100 persen",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu melindungi kulit dari paparan sinar matahari",
+      "ringan untuk dipakai ulang"
+    ]
+  },
+  {
+    "productId": "prod-lip-care",
+    "riskyPatterns": [
+      "memerahkan bibir permanen",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu bibir terasa lembap",
+      "praktis dibawa harian"
+    ]
+  },
+  {
+    "productId": "prod-night-repair",
+    "riskyPatterns": [
+      "anti aging permanen",
+      "menghapus keriput",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "membantu kulit terasa lembap saat malam",
+      "mendukung rutinitas perawatan malam"
+    ]
+  },
+  {
+    "productId": "prod-starter-bundle",
+    "riskyPatterns": [
+      "hasil instan",
+      "memutihkan permanen",
+      "cepat hilang",
+      "pasti berhasil",
+      "permanen",
+      "sembuh total",
+      "tanpa efek samping"
+    ],
+    "saferWording": [
+      "paket praktis untuk mulai rutinitas skincare",
+      "menggabungkan pembersih dan serum"
+    ]
+  }
+]
