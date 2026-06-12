@@ -28,6 +28,7 @@ Endpoint runtime:
 
 | Endpoint | Fungsi |
 | --- | --- |
+| `GET /` | Status singkat untuk deploy checker Fly.io |
 | `GET /health` | Health check lokal dan Fly.io |
 | `POST /mcp` | Endpoint MCP Streamable HTTP |
 
@@ -123,12 +124,6 @@ Project ini sudah punya `Dockerfile` dan `fly.toml`.
 
 ```bash
 fly deploy
-```
-
-Kalau nama app atau domain berubah, update allowlist:
-
-```bash
-fly secrets set ALLOWED_HOSTS="svo.fly.dev,your-custom-domain.com"
 ```
 
 Setelah deploy, endpoint MCP akan berbentuk:

@@ -7,7 +7,6 @@ primary_region = "ams"
 [env]
   NODE_ENV = "production"
   PORT = "8080"
-  ALLOWED_HOSTS = "svo.fly.dev"
 
 [http_service]
   internal_port = 8080

@@ -6,12 +6,19 @@ import { createSeedStore } from "./seed.js";
 import type { SvoStore } from "./types.js";
 
 export function createApp(store: SvoStore = createSeedStore()): Express {
-  const flyHost = process.env.FLY_APP_NAME ? `${process.env.FLY_APP_NAME}.fly.dev` : "svo-mcp.fly.dev";
-  const allowedHosts = (process.env.ALLOWED_HOSTS ?? `127.0.0.1,localhost,${flyHost}`)
-    .split(",")
-    .map((host) => host.trim())
-    .filter(Boolean);
-  const app = createMcpExpressApp({ host: "0.0.0.0", allowedHosts });
+  const app = createMcpExpressApp({ host: "0.0.0.0" });
+
+  app.get("/", (_req: Request, res: Response) => {
+    res.json({
+      ok: true,
+      service: "svo-mcp",
+      message: "SVO-MCP is running. Use /health for health checks and /mcp for MCP.",
+      endpoints: {
+        health: "/health",
+        mcp: "/mcp"
+      }
+    });
+  });
 
   app.get("/health", (_req: Request, res: Response) => {
     res.json({
