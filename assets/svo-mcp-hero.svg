@@ -1,0 +1,63 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SVO-MCP architecture banner</title>
+  <desc id="desc">Banner arsitektur SVO-MCP yang memperlihatkan distributor, LLM host, MCP server, dan sistem bisnis SVO.</desc>
+  <rect width="1200" height="420" rx="28" fill="#0F1417"/>
+  <path d="M0 278C125 245 220 283 337 230C455 177 529 116 656 133C787 151 827 246 967 218C1055 200 1136 142 1200 151V420H0V278Z" fill="#16232A"/>
+  <path d="M0 333C138 296 242 320 362 272C477 226 546 189 674 199C824 211 868 286 1016 265C1090 254 1147 228 1200 235V420H0V333Z" fill="#19332E"/>
+  <g opacity="0.18">
+    <path d="M64 64H1136" stroke="#EAF1ED"/>
+    <path d="M64 128H1136" stroke="#EAF1ED"/>
+    <path d="M64 192H1136" stroke="#EAF1ED"/>
+    <path d="M64 256H1136" stroke="#EAF1ED"/>
+    <path d="M64 320H1136" stroke="#EAF1ED"/>
+    <path d="M160 40V360" stroke="#EAF1ED"/>
+    <path d="M320 40V360" stroke="#EAF1ED"/>
+    <path d="M480 40V360" stroke="#EAF1ED"/>
+    <path d="M640 40V360" stroke="#EAF1ED"/>
+    <path d="M800 40V360" stroke="#EAF1ED"/>
+    <path d="M960 40V360" stroke="#EAF1ED"/>
+  </g>
+  <circle cx="1018" cy="78" r="46" fill="#F7C948" opacity="0.15"/>
+  <circle cx="1084" cy="108" r="24" fill="#2F8F72" opacity="0.2"/>
+  <g filter="url(#shadow)">
+    <rect x="72" y="92" width="262" height="154" rx="20" fill="#F6F7F2"/>
+    <text x="110" y="134" fill="#0F1417" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Distributor SVO</text>
+    <text x="110" y="166" fill="#50605A" font-family="Inter, Arial, sans-serif" font-size="16">mobile-first</text>
+    <text x="110" y="191" fill="#50605A" font-family="Inter, Arial, sans-serif" font-size="16">Claude / ChatGPT</text>
+    <rect x="110" y="209" width="92" height="20" rx="10" fill="#DCEBE4"/>
+    <text x="126" y="224" fill="#1D5F4A" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800">prompt</text>
+    <rect x="214" y="209" width="82" height="20" rx="10" fill="#F6E7AF"/>
+    <text x="230" y="224" fill="#6A5200" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800">reply</text>
+  </g>
+  <path d="M356 168H459" stroke="#F7C948" stroke-width="5" stroke-linecap="round"/>
+  <path d="M446 153L463 168L446 183" stroke="#F7C948" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)">
+    <rect x="486" y="70" width="262" height="190" rx="22" fill="#F7C948"/>
+    <text x="532" y="126" fill="#0F1417" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="900">SVO-MCP</text>
+    <text x="532" y="162" fill="#2A2A24" font-family="Inter, Arial, sans-serif" font-size="17">server tools untuk agent</text>
+    <rect x="532" y="190" width="166" height="30" rx="15" fill="#0F1417"/>
+    <text x="553" y="211" fill="#F6F7F2" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">/mcp + /health</text>
+    <path d="M532 238H704" stroke="#0F1417" stroke-width="3" stroke-linecap="round" opacity="0.25"/>
+  </g>
+  <path d="M770 168H866" stroke="#EAF1ED" stroke-width="5" stroke-linecap="round"/>
+  <path d="M853 153L870 168L853 183" stroke="#EAF1ED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)">
+    <rect x="894" y="52" width="236" height="264" rx="20" fill="#F6F7F2"/>
+    <text x="932" y="99" fill="#0F1417" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">Sistem Bisnis</text>
+    <rect x="928" y="124" width="166" height="31" rx="8" fill="#E7EFEA"/>
+    <text x="947" y="145" fill="#1F2A27" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">Product Catalog</text>
+    <rect x="928" y="166" width="166" height="31" rx="8" fill="#E7EFEA"/>
+    <text x="947" y="187" fill="#1F2A27" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">WhatsApp Leads</text>
+    <rect x="928" y="208" width="166" height="31" rx="8" fill="#E7EFEA"/>
+    <text x="947" y="229" fill="#1F2A27" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">Orders + Sales</text>
+    <rect x="928" y="250" width="166" height="31" rx="8" fill="#E7EFEA"/>
+    <text x="947" y="271" fill="#1F2A27" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">Meta Ads + Pattern</text>
+  </g>
+  <text x="72" y="356" fill="#F6F7F2" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900">MCP-first proof untuk workflow distributor SVO</text>
+  <text x="72" y="388" fill="#B8C7C1" font-family="Inter, Arial, sans-serif" font-size="17">Dummy data sekarang. Neon/Postgres nanti. Tidak ada dashboard baru untuk distributor.</text>
+  <defs>
+    <filter id="shadow" x="0" y="0" width="1200" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000000" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+</svg>
