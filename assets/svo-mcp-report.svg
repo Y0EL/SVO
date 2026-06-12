@@ -1,0 +1,52 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SVO-MCP validation report banner</title>
+  <desc id="desc">Visual validation report banner showing deployment, MCP tools, Claude, and WhatsApp fake send evidence.</desc>
+  <rect width="1200" height="360" rx="26" fill="#111518"/>
+  <rect x="38" y="36" width="1124" height="288" rx="22" fill="#162026" stroke="#2D3A40"/>
+  <path d="M38 239C160 198 255 230 377 184C500 137 573 95 706 113C846 132 891 219 1037 195C1098 185 1140 168 1162 161V324H38V239Z" fill="#19332E"/>
+  <g opacity="0.16">
+    <path d="M84 84H1118" stroke="#EEF3EF"/>
+    <path d="M84 144H1118" stroke="#EEF3EF"/>
+    <path d="M84 204H1118" stroke="#EEF3EF"/>
+    <path d="M84 264H1118" stroke="#EEF3EF"/>
+    <path d="M184 60V300" stroke="#EEF3EF"/>
+    <path d="M384 60V300" stroke="#EEF3EF"/>
+    <path d="M584 60V300" stroke="#EEF3EF"/>
+    <path d="M784 60V300" stroke="#EEF3EF"/>
+    <path d="M984 60V300" stroke="#EEF3EF"/>
+  </g>
+  <text x="82" y="98" fill="#F6F7F2" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="900">SVO-MCP Validation Report</text>
+  <text x="84" y="134" fill="#B9C5C0" font-family="Inter, Arial, sans-serif" font-size="18">Fly.io deployed. MCP tools discovered. Claude executed WhatsApp fake-send flow.</text>
+  <g filter="url(#shadow)">
+    <rect x="84" y="178" width="206" height="82" rx="16" fill="#F6F7F2"/>
+    <text x="116" y="211" fill="#111518" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">Fly.io</text>
+    <text x="116" y="238" fill="#50605A" font-family="Inter, Arial, sans-serif" font-size="15">https://svo.fly.dev</text>
+  </g>
+  <path d="M306 220H388" stroke="#F7C948" stroke-width="5" stroke-linecap="round"/>
+  <path d="M376 205L392 220L376 235" stroke="#F7C948" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)">
+    <rect x="412" y="160" width="236" height="118" rx="18" fill="#F7C948"/>
+    <text x="452" y="203" fill="#111518" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900">8 MCP Tools</text>
+    <text x="452" y="234" fill="#2A2A24" font-family="Inter, Arial, sans-serif" font-size="16">catalog, WhatsApp, orders, ads</text>
+  </g>
+  <path d="M666 220H748" stroke="#EAF1ED" stroke-width="5" stroke-linecap="round"/>
+  <path d="M736 205L752 220L736 235" stroke="#EAF1ED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)">
+    <rect x="772" y="178" width="154" height="82" rx="16" fill="#F6F7F2"/>
+    <text x="808" y="211" fill="#111518" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">Claude</text>
+    <text x="808" y="238" fill="#50605A" font-family="Inter, Arial, sans-serif" font-size="15">control surface</text>
+  </g>
+  <path d="M942 220H1008" stroke="#2F8F72" stroke-width="5" stroke-linecap="round"/>
+  <path d="M996 205L1012 220L996 235" stroke="#2F8F72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)">
+    <rect x="1028" y="178" width="92" height="82" rx="16" fill="#DCEBE4"/>
+    <text x="1050" y="211" fill="#143D31" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">PASS</text>
+    <text x="1045" y="238" fill="#1D5F4A" font-family="Inter, Arial, sans-serif" font-size="14">msg-005</text>
+  </g>
+  <text x="84" y="303" fill="#F6F7F2" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">SVO Assessment by Yoel</text>
+  <defs>
+    <filter id="shadow" x="0" y="0" width="1200" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+</svg>
